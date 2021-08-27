@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/navigation_photo_upload"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/navigation_chat"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/navigation_store"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_background"
+        android:title=""
+        app:showAsAction="always" />
+
+
+</menu>
